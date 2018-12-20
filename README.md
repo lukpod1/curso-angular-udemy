@@ -1,5 +1,7 @@
 # Meat - Angular App Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lukpod1/curso-angular-udemy.svg)](https://greenkeeper.io/)
+
 ## 1. Passos para começar
 
 ### Clonando o Repositório
